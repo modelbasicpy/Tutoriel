@@ -1,0 +1,1 @@
+In den einzelnen Ordner sind vereinfachte Beispieldaten und Beispielcode angeführt. Diese Beispiele sind dafür gedacht, das angehende Wissenschaftler eine Hilfestellung bekommen um ihre Daten mathematisch beschreiben zu können.
